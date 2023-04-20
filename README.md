@@ -10,7 +10,7 @@
 </div>
 
 This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@TrackDownRoBot](https://t.me/XD_MUSIC_BOTZ)
+### Try it at [@XD_MUSIC_MOTZ](https://t.me/XD_MUSIC_BOTZ)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/DIGITALBOTXD/TrackDown)](https://repl.it/github/DIGITALBOTXD/TrackDown)
